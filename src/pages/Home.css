@@ -1,0 +1,21 @@
+.home-background {
+    background-image: url('https://img.freepik.com/free-vector/cute-pets-illustration_53876-112522.jpg?w=1380&t=st=1708911274~exp=1708911874~hmac=01aa54047f0c0062ef76802594013344fc3f060f4612595e5494a6ddbca0ee61');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .input {
+    position: relative;
+    margin-bottom: 1rem;
+  }
+  
+  .icon {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    color: #3498db;
+  }
+  
